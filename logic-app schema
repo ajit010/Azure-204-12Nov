@@ -1,0 +1,10 @@
+{
+  "weather": [
+    {
+      "description": "light rain"
+    }
+  ],
+  "main": {
+    "temp": 283.15
+  }
+}
