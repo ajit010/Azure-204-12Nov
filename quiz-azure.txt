@@ -1,0 +1,17 @@
+https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/9-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/7-knowledge-check-rbac
+
+https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/9-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/12-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/10-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups/8-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/10-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/configure-storage-accounts/8-knowledge-check
+
+https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/6-knowledge-check
